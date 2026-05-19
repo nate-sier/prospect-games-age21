@@ -117,7 +117,7 @@ def distribution_for_acquisition(player_age: pd.DataFrame, acq: str) -> pd.DataF
             "Min": [0.0] * len(AGE_ORDER),
             "P25": [0.0] * len(AGE_ORDER),
             "P75": [0.0] * len(AGE_ORDER),
-            "Max": [0.0] * len(AGE_ORDER),
+            "P90": [0.0] * len(AGE_ORDER),
             "Total_Games": [0] * len(AGE_ORDER),
         })
 
@@ -131,7 +131,7 @@ def distribution_for_acquisition(player_age: pd.DataFrame, acq: str) -> pd.DataF
             Min="min",
             P25=lambda s: s.quantile(0.25),
             P75=lambda s: s.quantile(0.75),
-            Max="max",
+            P90="max",
             Total_Games="sum",
         )
         .reindex(AGE_ORDER)
@@ -140,7 +140,7 @@ def distribution_for_acquisition(player_age: pd.DataFrame, acq: str) -> pd.DataF
 
     for c in ["Players", "Total_Games"]:
         dist[c] = dist[c].fillna(0).astype(int)
-    for c in ["Mean", "Median", "SD", "Min", "P25", "P75", "Max"]:
+    for c in ["Mean", "Median", "SD", "Min", "P25", "P75", "P90"]:
         dist[c] = dist[c].fillna(0).round(1)
 
     return dist
@@ -190,7 +190,7 @@ def source_split_for_acquisition(source_split: pd.DataFrame, acq: str) -> pd.Dat
 
 
 def format_distribution_table(df: pd.DataFrame) -> pd.DataFrame:
-    cols = ["Age", "Players", "Mean", "Median", "SD", "Min", "P25", "P75", "Max", "Total_Games"]
+    cols = ["Age", "Players", "Mean", "Median", "SD", "Min", "P25", "P75", "P90", "Total_Games"]
     return df[cols]
 
 
@@ -220,7 +220,7 @@ def show_distribution_table(acq: str, player_age: pd.DataFrame, source_split: pd
             "Min": st.column_config.NumberColumn("Min", format="%.1f"),
             "P25": st.column_config.NumberColumn("P25", format="%.1f"),
             "P75": st.column_config.NumberColumn("P75", format="%.1f"),
-            "Max": st.column_config.NumberColumn("Max", format="%.1f"),
+            "P90": st.column_config.NumberColumn("P90", format="%.1f"),
             "Total_Games": st.column_config.NumberColumn("Total Games", format="%d"),
         },
     )
