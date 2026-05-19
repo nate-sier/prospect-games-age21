@@ -1,0 +1,999 @@
+Year,Rank,Player,Position,Team,Level,Age,Bats,Throws
+2026,1,Jesús Made,SS,Milwaukee Brewers,AA,19,S,R
+2026,2,Leo De Vries,SS,Athletics,AA,19,S,R
+2026,3,Seth Hernandez,RHP,Pittsburgh Pirates,A+,19,R,R
+2026,4,Eli Willits,SS,Washington Nationals,A,18,S,R
+2026,5,Trey Yesavage,RHP,Toronto Blue Jays,MLB,22,R,R
+2026,6,Colt Emerson,SS,Seattle Mariners,MLB,20,L,R
+2026,7,Kade Anderson,LHP,Seattle Mariners,AA,21,L,L
+2026,8,Max Clark,OF,Detroit Tigers,AAA,21,L,L
+2026,9,Josue De Paula,OF,Los Angeles Dodgers,AA,20,L,L
+2026,10,Sebastian Walcott,SS/3B,Texas Rangers,AA,20,R,R
+2026,11,Franklin Arias,SS,Boston Red Sox,AA,20,R,R
+2026,12,Walker Jenkins,OF,Minnesota Twins,AAA,21,L,R
+2026,13,Travis Bazzana,2B,Cleveland Guardians,MLB,23,L,R
+2026,14,Thomas White,LHP,Miami Marlins,AAA,21,L,L
+2026,15,Caleb Bonemer,3B/SS,Chicago White Sox,A+,20,R,R
+2026,16,Aidan Miller,SS,Philadelphia Phillies,AAA,21,R,R
+2026,17,Ethan Holliday,SS,Colorado Rockies,A,19,L,R
+2026,18,Bryce Eldridge,1B,San Francisco Giants,MLB,21,L,R
+2026,19,Luis Peña,INF,Milwaukee Brewers,A+,19,R,R
+2026,20,Zyhir Hope,OF,Los Angeles Dodgers,AA,21,L,L
+2026,21,George Lombard Jr.,INF,New York Yankees,AAA,20,R,R
+2026,22,Ryan Sloan,RHP,Seattle Mariners,AA,20,R,R
+2026,23,Liam Doyle,LHP,St. Louis Cardinals,AA,21,R,L
+2026,24,Braden Montgomery,OF,Chicago White Sox,AAA,23,S,R
+2026,25,Rainiel Rodriguez,C,St. Louis Cardinals,AA,19,R,R
+2026,26,Alfredo Duno,C,Cincinnati Reds,A+,20,R,R
+2026,27,Noah Schultz,LHP,Chicago White Sox,MLB,22,L,L
+2026,28,Robby Snelling,LHP,Miami Marlins,MLB,22,R,L
+2026,29,Jamie Arnold,LHP,Athletics,AA,22,L,L
+2026,30,Lazaro Montes,OF,Seattle Mariners,AA,21,L,R
+2026,31,Josuar Gonzalez,SS,San Francisco Giants,ROK,18,S,R
+2026,32,JoJo Parker,SS,Toronto Blue Jays,A,19,L,R
+2026,33,Ryan Waldschmidt,OF,Arizona Diamondbacks,MLB,23,R,R
+2026,34,A.J. Ewing,OF/2B,New York Mets,MLB,21,L,R
+2026,35,Aiva Arquette,SS,Miami Marlins,A+,22,R,R
+2026,36,Jonah Tong,RHP,New York Mets,AAA,22,R,R
+2026,37,Edward Florentino,OF/1B,Pittsburgh Pirates,A+,19,L,R
+2026,38,Eduardo Quintero,OF,Los Angeles Dodgers,A+,20,R,R
+2026,39,Kaelen Culpepper,SS,Minnesota Twins,AAA,23,R,R
+2026,40,Travis Sykora,RHP,Washington Nationals,AA,22,R,R
+2026,41,Gage Jump,LHP,Athletics,AAA,23,L,L
+2026,42,Mike Sirota,OF,Los Angeles Dodgers,A+,22,R,R
+2026,43,Theo Gillen,OF,Tampa Bay Rays,A+,20,L,R
+2026,44,Joe Mack,C,Miami Marlins,MLB,23,L,R
+2026,45,Eduardo Tait,C,Minnesota Twins,A+,19,L,R
+2026,46,Bryce Rainer,SS,Detroit Tigers,A+,20,L,R
+2026,47,Angel Genao,SS,Cleveland Guardians,AAA,21,S,R
+2026,48,Michael Arroyo,2B/OF,Seattle Mariners,AA,21,R,R
+2026,49,Cam Caminiti,LHP,Atlanta Braves,A+,19,L,L
+2026,50,Hagen Smith,LHP,Chicago White Sox,AAA,22,L,L
+2026,51,Tyler Bremner,RHP,Los Angeles Angels,A+,22,R,R
+2026,52,Ethan Salas,C,San Diego Padres,AA,19,L,R
+2026,53,Billy Carlson,SS,Chicago White Sox,A,19,R,R
+2026,54,Emmanuel Rodriguez,OF,Minnesota Twins,AAA,23,L,L
+2026,55,Blake Mitchell,C,Kansas City Royals,A+,21,L,R
+2026,56,Arjun Nimmala,SS,Toronto Blue Jays,AA,20,R,R
+2026,57,Emil Morales,SS,Los Angeles Dodgers,A,19,R,R
+2026,58,Luis Hernández,SS,San Francisco Giants,ROK,17,R,R
+2026,59,Ralphy Velazquez,1B/OF,Cleveland Guardians,AA,20,L,R
+2026,60,Jett Williams,3B/SS/OF,Milwaukee Brewers,AAA,22,R,R
+2026,61,JR Ritchie,RHP,Atlanta Braves,MLB,22,R,R
+2026,62,Jarlin Susana,RHP,Washington Nationals,AA,22,R,R
+2026,63,Elmer Rodríguez,RHP,New York Yankees,MLB,22,L,R
+2026,64,Jhonny Level,SS,San Francisco Giants,A,19,S,R
+2026,65,Steele Hall,SS,Cincinnati Reds,ROK,18,R,R
+2026,66,Cooper Pratt,SS,Milwaukee Brewers,AAA,21,R,R
+2026,67,Josue Briceño,C/1B,Detroit Tigers,AA,21,L,R
+2026,68,Joshua Báez,OF,St. Louis Cardinals,AAA,22,R,R
+2026,69,Nate George,OF,Baltimore Orioles,A+,19,R,R
+2026,70,Dax Kilby,SS,New York Yankees,A,19,L,R
+2026,71,Gage Wood,RHP,Philadelphia Phillies,AA,22,R,R
+2026,72,Anthony Eyanson,RHP,Boston Red Sox,AA,21,R,R
+2026,73,Cooper Ingle,C,Cleveland Guardians,AAA,24,L,R
+2026,74,Jonny Farmelo,OF,Seattle Mariners,A+,21,L,R
+2026,75,Charlie Condon,1B/OF,Colorado Rockies,AAA,23,R,R
+2026,76,Carlos Lagrange,RHP,New York Yankees,AAA,22,R,R
+2026,77,Caden Scarborough,RHP,Texas Rangers,ROK,21,R,R
+2026,78,Didier Fuentes,RHP,Atlanta Braves,MLB,20,R,R
+2026,79,Kendry Chourio,RHP,Kansas City Royals,A,18,R,R
+2026,80,Kevin Alvarez,OF,Houston Astros,A,18,L,L
+2026,81,River Ryan,RHP,Los Angeles Dodgers,AAA,27,R,R
+2026,82,Roldy Brito,OF/2B,Colorado Rockies,A,19,S,R
+2026,83,Kayson Cunningham,SS,Arizona Diamondbacks,A,19,L,R
+2026,84,Jefferson Rojas,SS,Chicago Cubs,AA,21,R,R
+2026,85,Brody Hopkins,RHP,Tampa Bay Rays,AAA,24,R,R
+2026,86,Pedro Ramírez,3B/2B,Chicago Cubs,AAA,22,S,R
+2026,87,Kyson Witherspoon,RHP,Boston Red Sox,A+,21,R,R
+2026,88,Jurrangelo Cijntje,RHP,St. Louis Cardinals,AA,22,S,S
+2026,89,Jaxon Wiggins,RHP,Chicago Cubs,AAA,24,R,R
+2026,90,Nathan Flewelling,C,Tampa Bay Rays,A+,19,L,R
+2026,91,Ronny Cruz,INF,Washington Nationals,A+,19,R,R
+2026,92,Kruz Schoolcraft,LHP,San Diego Padres,A,19,L,L
+2026,93,Ike Irish,OF/1B,Baltimore Orioles,A+,22,L,R
+2026,94,Wei-En Lin,LHP,Athletics,AA,20,L,L
+2026,95,Luis Lara,OF,Milwaukee Brewers,AAA,21,S,R
+2026,96,Josh Hammond,SS/3B,Kansas City Royals,A,19,R,R
+2026,97,Justin Gonzales,OF,Boston Red Sox,A+,19,R,R
+2026,98,Charles Davalan,OF,Los Angeles Dodgers,A+,22,L,R
+2026,99,Xavier Neyens,3B/SS,Houston Astros,A,19,L,R
+2026,100,Edwin Arroyo,SS,Cincinnati Reds,AAA,22,S,R
+2025,1,Roki Sasaki,RHP,Los Angeles Dodgers,MLB,24,R,R
+2025,2,Roman Anthony,OF,Boston Red Sox,MLB,22,L,R
+2025,3,Walker Jenkins,OF,Minnesota Twins,AAA,21,L,R
+2025,4,Dylan Crews,OF,Washington Nationals,AAA,24,R,R
+2025,5,Jackson Jobe,RHP,Detroit Tigers,MLB,23,R,R
+2025,6,Max Clark,OF,Detroit Tigers,AAA,21,L,L
+2025,7,Kristian Campbell,2B/SS/OF,Boston Red Sox,AAA,23,R,R
+2025,8,Andrew Painter,RHP,Philadelphia Phillies,MLB,23,R,R
+2025,9,Carson Williams,SS,Tampa Bay Rays,MLB,22,R,R
+2025,10,Travis Bazzana,2B,Cleveland Guardians,MLB,23,L,R
+2025,11,Jordan Lawlar,INF,Arizona Diamondbacks,MLB,23,R,R
+2025,12,Marcelo Mayer,INF,Boston Red Sox,MLB,23,L,R
+2025,13,Samuel Basallo,C/1B,Baltimore Orioles,MLB,21,L,R
+2025,14,Coby Mayo,3B/1B,Baltimore Orioles,MLB,24,R,R
+2025,15,Bubba Chandler,RHP,Pittsburgh Pirates,MLB,23,S,R
+2025,16,Noah Schultz,LHP,Chicago White Sox,MLB,22,L,L
+2025,17,Sebastian Walcott,SS/3B,Texas Rangers,AA,20,R,R
+2025,18,Leo De Vries,SS,Athletics,AA,19,S,R
+2025,19,Matt Shaw,INF,Chicago Cubs,MLB,24,R,R
+2025,20,Colt Emerson,SS,Seattle Mariners,MLB,20,L,R
+2025,21,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2025,22,Jac Caglianone,1B/OF,Kansas City Royals,MLB,23,L,L
+2025,23,JJ Wetherholt,INF,St. Louis Cardinals,MLB,23,L,R
+2025,24,Bryce Eldridge,1B,San Francisco Giants,MLB,21,L,R
+2025,25,Chase Dollander,RHP,Colorado Rockies,MLB,24,R,R
+2025,26,Chase Burns,RHP,Cincinnati Reds,MLB,23,R,R
+2025,27,Aidan Miller,SS,Philadelphia Phillies,AAA,21,R,R
+2025,28,Kevin McGonigle,SS,Detroit Tigers,MLB,21,L,R
+2025,29,Charlie Condon,1B/OF,Colorado Rockies,AAA,23,R,R
+2025,30,Dalton Rushing,C/OF,Los Angeles Dodgers,MLB,25,L,R
+2025,31,Jacob Wilson,SS,Athletics,MLB,24,R,R
+2025,32,Kyle Teel,C,Chicago White Sox,AAA,24,L,R
+2025,33,Ethan Salas,C,San Diego Padres,AA,19,L,R
+2025,34,Hagen Smith,LHP,Chicago White Sox,AAA,22,L,L
+2025,35,Rhett Lowder,RHP,Cincinnati Reds,MLB,24,R,R
+2025,36,Chase DeLauter,OF,Cleveland Guardians,MLB,24,L,L
+2025,37,Emmanuel Rodriguez,OF,Minnesota Twins,AAA,23,L,L
+2025,38,Nick Kurtz,1B,Athletics,MLB,23,L,L
+2025,39,Colson Montgomery,SS/3B,Chicago White Sox,MLB,24,L,R
+2025,40,Josue De Paula,OF,Los Angeles Dodgers,AA,20,L,L
+2025,41,Thomas White,LHP,Miami Marlins,AAA,21,L,L
+2025,42,Lazaro Montes,OF,Seattle Mariners,AA,21,L,R
+2025,43,Konnor Griffin,SS,Pittsburgh Pirates,MLB,20,R,R
+2025,44,Kumar Rocker,RHP,Texas Rangers,MLB,26,R,R
+2025,45,Quinn Mathews,LHP,St. Louis Cardinals,AAA,25,L,L
+2025,46,Brandon Sproat,RHP,Milwaukee Brewers,MLB,25,R,R
+2025,47,Jeferson Quero,C,Milwaukee Brewers,AAA,23,R,R
+2025,48,Blake Mitchell,C,Kansas City Royals,A+,21,L,R
+2025,49,Cole Young,2B/SS,Seattle Mariners,MLB,22,L,R
+2025,50,Alejandro Rosario,RHP,Washington Nationals,AA,24,R,R
+2025,51,Xavier Isaac,1B,Tampa Bay Rays,AA,22,L,L
+2025,52,Cade Horton,RHP,Chicago Cubs,MLB,24,R,R
+2025,53,Bryce Rainer,SS,Detroit Tigers,A+,20,L,R
+2025,54,Owen Caissie,OF,Miami Marlins,MLB,23,L,R
+2025,55,Braden Montgomery,OF,Chicago White Sox,AAA,23,S,R
+2025,56,Jesús Made,SS,Milwaukee Brewers,AA,19,S,R
+2025,57,Cooper Pratt,SS,Milwaukee Brewers,AAA,21,R,R
+2025,58,Jett Williams,3B/SS/OF,Milwaukee Brewers,AAA,22,R,R
+2025,59,Cam Smith,3B,Houston Astros,MLB,23,R,R
+2025,60,Jaison Chourio,OF,Cleveland Guardians,AA,20,S,R
+2025,61,Luke Keaschall,2B/OF/1B,Minnesota Twins,MLB,23,R,R
+2025,62,Angel Genao,SS,Cleveland Guardians,AAA,21,S,R
+2025,63,Drake Baldwin,C,Atlanta Braves,MLB,25,L,R
+2025,64,Justin Crawford,OF,Philadelphia Phillies,MLB,22,L,R
+2025,65,Harry Ford,C,Washington Nationals,AAA,23,R,R
+2025,66,Edgar Quero,C,Chicago White Sox,MLB,23,S,R
+2025,67,Brayden Taylor,INF,Tampa Bay Rays,AA,23,L,R
+2025,68,Christian Moore,2B,Los Angeles Angels,AAA,23,R,R
+2025,69,Moisés Ballesteros,C,Chicago Cubs,MLB,22,L,R
+2025,70,Travis Sykora,RHP,Washington Nationals,AA,22,R,R
+2025,71,Jackson Ferris,LHP,Los Angeles Dodgers,AAA,22,L,L
+2025,72,Alex Freeland,INF,Los Angeles Dodgers,AAA,24,S,R
+2025,73,James Triantos,2B/OF,Chicago Cubs,AAA,23,R,R
+2025,74,Felnin Celesten,SS,Seattle Mariners,A+,20,S,R
+2025,75,Zyhir Hope,OF,Los Angeles Dodgers,AA,21,L,L
+2025,76,Franklin Arias,SS,Boston Red Sox,AA,20,R,R
+2025,77,Tink Hence,RHP,St. Louis Cardinals,ROK,23,R,R
+2025,78,Caden Dana,RHP,Los Angeles Angels,AAA,22,L,R
+2025,79,Jarlin Susana,RHP,Washington Nationals,AA,22,R,R
+2025,80,Thomas Harrington,RHP,Pittsburgh Pirates,AAA,24,R,R
+2025,81,Starlyn Caba,SS/2B,Miami Marlins,A+,20,S,R
+2025,82,Thayron Liranzo,C/1B,Detroit Tigers,AA,22,S,R
+2025,83,Termarr Johnson,2B,Pittsburgh Pirates,AAA,21,L,R
+2025,84,Sal Stewart,INF,Cincinnati Reds,MLB,22,R,R
+2025,85,Noble Meyer,RHP,Miami Marlins,A+,21,R,R
+2025,86,Carter Jensen,C,Kansas City Royals,MLB,22,L,R
+2025,87,Arjun Nimmala,SS,Toronto Blue Jays,AA,20,R,R
+2025,88,Trey Yesavage,RHP,Toronto Blue Jays,MLB,22,R,R
+2025,89,Cam Caminiti,LHP,Atlanta Braves,A+,19,L,L
+2025,90,Kevin Alcántara,OF,Chicago Cubs,AAA,23,R,R
+2025,91,Cam Collier,1B/3B,Cincinnati Reds,AA,21,L,R
+2025,92,Edwin Arroyo,SS,Cincinnati Reds,AAA,22,S,R
+2025,93,Eduardo Tait,C,Minnesota Twins,A+,19,L,R
+2025,94,Tre' Morgan,1B/OF,Tampa Bay Rays,ROK,23,L,L
+2025,95,Josue Briceño,C/1B,Detroit Tigers,AA,21,L,R
+2025,96,Jonny Farmelo,OF,Seattle Mariners,A+,21,L,R
+2025,97,Jefferson Rojas,SS,Chicago Cubs,AA,21,R,R
+2025,98,Michael Arroyo,2B/OF,Seattle Mariners,AA,21,R,R
+2025,99,Theo Gillen,OF,Tampa Bay Rays,A+,20,L,R
+2025,100,Jacob Misiorowski,RHP,Milwaukee Brewers,MLB,24,R,R
+2024,1,Jackson Holliday,2B/SS,Baltimore Orioles,AAA,22,L,R
+2024,2,Jackson Chourio,OF,Milwaukee Brewers,MLB,22,R,R
+2024,3,Paul Skenes,RHP,Pittsburgh Pirates,MLB,23,R,R
+2024,4,Junior Caminero,3B/2B,Tampa Bay Rays,MLB,22,R,R
+2024,5,Evan Carter,OF,Texas Rangers,MLB,23,L,R
+2024,6,Wyatt Langford,OF,Texas Rangers,MLB,24,R,R
+2024,7,Dylan Crews,OF,Washington Nationals,AAA,24,R,R
+2024,8,Ethan Salas,C,San Diego Padres,AA,19,L,R
+2024,9,Colson Montgomery,SS/3B,Chicago White Sox,MLB,24,L,R
+2024,10,Walker Jenkins,OF,Minnesota Twins,AAA,21,L,R
+2024,11,Jordan Lawlar,INF,Arizona Diamondbacks,MLB,23,R,R
+2024,12,Jackson Merrill,SS/OF,San Diego Padres,MLB,23,L,R
+2024,13,Max Clark,OF,Detroit Tigers,AAA,21,L,L
+2024,14,James Wood,OF,Washington Nationals,MLB,23,L,R
+2024,15,Marcelo Mayer,INF,Boston Red Sox,MLB,23,L,R
+2024,16,Pete Crow-Armstrong,OF,Chicago Cubs,MLB,24,L,L
+2024,17,Samuel Basallo,C/1B,Baltimore Orioles,MLB,21,L,R
+2024,18,Brooks Lee,INF,Minnesota Twins,MLB,25,S,R
+2024,19,Colton Cowser,OF,Baltimore Orioles,MLB,26,L,R
+2024,20,Carson Williams,SS,Tampa Bay Rays,MLB,22,R,R
+2024,21,Noelvi Marte,3B/SS,Cincinnati Reds,AAA,24,R,R
+2024,22,Colt Keith,3B/2B,Detroit Tigers,MLB,24,L,R
+2024,23,Kyle Harrison,LHP,Milwaukee Brewers,MLB,24,R,L
+2024,24,Roman Anthony,OF,Boston Red Sox,MLB,22,L,R
+2024,25,Jackson Jobe,RHP,Detroit Tigers,MLB,23,R,R
+2024,26,Cade Horton,RHP,Chicago Cubs,MLB,24,R,R
+2024,27,Andrew Painter,RHP,Philadelphia Phillies,MLB,23,R,R
+2024,28,Adael Amador,2B,Colorado Rockies,AAA,23,S,R
+2024,29,Ricky Tiedemann,LHP,Toronto Blue Jays,AAA,23,L,L
+2024,30,Coby Mayo,3B/1B,Baltimore Orioles,MLB,24,R,R
+2024,31,Chase DeLauter,OF,Cleveland Guardians,MLB,24,L,L
+2024,32,Heston Kjerstad,OF,Baltimore Orioles,AAA,27,L,R
+2024,33,Jacob Misiorowski,RHP,Milwaukee Brewers,MLB,24,R,R
+2024,34,Rhett Lowder,RHP,Cincinnati Reds,MLB,24,R,R
+2024,35,Jeferson Quero,C,Milwaukee Brewers,AAA,23,R,R
+2024,36,Robby Snelling,LHP,Miami Marlins,MLB,22,R,L
+2024,37,Cole Young,2B/SS,Seattle Mariners,MLB,22,L,R
+2024,38,Harry Ford,C,Washington Nationals,AAA,23,R,R
+2024,39,Marco Luciano,SS,New York Yankees,AAA,24,R,R
+2024,40,Kyle Teel,C,Chicago White Sox,AAA,24,L,R
+2024,41,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2024,42,Emmanuel Rodriguez,OF,Minnesota Twins,AAA,23,L,L
+2024,43,Masyn Winn,SS,St. Louis Cardinals,MLB,24,R,R
+2024,44,Termarr Johnson,2B,Pittsburgh Pirates,AAA,21,L,R
+2024,45,Jett Williams,3B/SS/OF,Milwaukee Brewers,AAA,22,R,R
+2024,46,Tyler Black,1B,Milwaukee Brewers,AAA,25,L,R
+2024,47,Owen Caissie,OF,Miami Marlins,MLB,23,L,R
+2024,48,Brady House,3B,Washington Nationals,MLB,22,R,R
+2024,49,Mick Abel,RHP,Minnesota Twins,MLB,24,R,R
+2024,50,Noah Schultz,LHP,Chicago White Sox,MLB,22,L,L
+2024,51,Michael Busch,INF,Chicago Cubs,MLB,28,L,R
+2024,52,Chase Dollander,RHP,Colorado Rockies,MLB,24,R,R
+2024,53,Drew Gilbert,OF,San Francisco Giants,MLB,25,L,L
+2024,54,Matt Shaw,INF,Chicago Cubs,MLB,24,R,R
+2024,55,Curtis Mead,3B/2B,Washington Nationals,MLB,25,R,R
+2024,56,Dylan Lesko,RHP,Tampa Bay Rays,A,22,R,R
+2024,57,Noble Meyer,RHP,Miami Marlins,A+,21,R,R
+2024,58,Xavier Isaac,1B,Tampa Bay Rays,AA,22,L,L
+2024,59,Kyle Manzardo,1B,Cleveland Guardians,MLB,25,L,R
+2024,60,Jace Jung,3B/2B,Detroit Tigers,AAA,25,L,R
+2024,61,Aidan Miller,SS,Philadelphia Phillies,AAA,21,R,R
+2024,62,Jared Jones,RHP,Pittsburgh Pirates,AA,24,L,R
+2024,63,Joey Ortiz,INF,Milwaukee Brewers,MLB,27,R,R
+2024,64,Tink Hence,RHP,St. Louis Cardinals,ROK,23,R,R
+2024,65,Kevin Alcántara,OF,Chicago Cubs,AAA,23,R,R
+2024,66,Luisangel Acuña,SS/OF/2B,Chicago White Sox,MLB,24,R,R
+2024,67,Edwin Arroyo,SS,Cincinnati Reds,AAA,22,S,R
+2024,68,Jacob Wilson,SS,Athletics,MLB,24,R,R
+2024,69,AJ Smith-Shawver,RHP,Atlanta Braves,MLB,23,R,R
+2024,70,Connor Phillips,RHP,Cincinnati Reds,MLB,25,R,R
+2024,71,Sebastian Walcott,SS/3B,Texas Rangers,AA,20,R,R
+2024,72,Yanquiel Fernández,OF,New York Yankees,AAA,23,L,L
+2024,73,James Triantos,2B/OF,Chicago Cubs,AAA,23,R,R
+2024,74,Tommy Troy,2B/OF,Arizona Diamondbacks,AAA,24,R,R
+2024,75,Dalton Rushing,C/OF,Los Angeles Dodgers,MLB,25,L,R
+2024,76,Ceddanne Rafaela,OF/SS,Boston Red Sox,MLB,25,R,R
+2024,77,Justin Crawford,OF,Philadelphia Phillies,MLB,22,L,R
+2024,78,Druw Jones,OF,Arizona Diamondbacks,AA,22,R,R
+2024,79,Gabriel Gonzalez,OF,Minnesota Twins,AAA,22,R,R
+2024,80,Nick Frasso,RHP,Los Angeles Dodgers,AAA,27,R,R
+2024,81,Jordan Beck,OF,Colorado Rockies,MLB,25,R,R
+2024,82,Anthony Solometo,LHP,Pittsburgh Pirates,AA,23,L,L
+2024,83,Carson Whisenhunt,LHP,San Francisco Giants,AAA,25,L,L
+2024,84,Spencer Jones,OF,New York Yankees,MLB,25,L,L
+2024,85,Drew Thorpe,RHP,Chicago White Sox,MLB,25,L,R
+2024,86,Roderick Arias,SS,New York Yankees,A+,21,S,R
+2024,87,Colt Emerson,SS,Seattle Mariners,MLB,20,L,R
+2024,88,Brock Porter,RHP,Texas Rangers,A+,22,R,R
+2024,89,Orelvis Martinez,2B/3B,Washington Nationals,AAA,24,R,R
+2024,90,Hurston Waldrep,RHP,Atlanta Braves,MLB,24,R,R
+2024,91,Brayan Rocchio,SS/2B,Cleveland Guardians,MLB,25,S,R
+2024,92,Chase Hampton,RHP,New York Yankees,A,24,R,R
+2024,93,Bubba Chandler,RHP,Pittsburgh Pirates,MLB,23,S,R
+2024,94,Blake Mitchell,C,Kansas City Royals,A+,21,L,R
+2024,95,Nolan Schanuel,1B,Los Angeles Angels,MLB,24,L,R
+2024,96,Bryce Eldridge,1B,San Francisco Giants,MLB,21,L,R
+2024,97,Ryan Clifford,1B/OF,New York Mets,AAA,22,L,L
+2024,98,Chase Petty,RHP,Cincinnati Reds,AAA,23,R,R
+2024,99,Tekoah Roby,RHP,St. Louis Cardinals,AAA,24,R,R
+2024,100,Daniel Espino,RHP,Cleveland Guardians,AAA,25,R,R
+2023,1,Gunnar Henderson,3B/SS,Baltimore Orioles,MLB,24,L,R
+2023,2,Corbin Carroll,OF,Arizona Diamondbacks,MLB,25,L,L
+2023,3,Francisco Alvarez,C,New York Mets,MLB,24,R,R
+2023,4,Jordan Walker,OF/3B,St. Louis Cardinals,MLB,23,R,R
+2023,5,Anthony Volpe,SS,New York Yankees,MLB,25,R,R
+2023,6,Andrew Painter,RHP,Philadelphia Phillies,MLB,23,R,R
+2023,7,Grayson Rodriguez,RHP,Los Angeles Angels,MLB,26,L,R
+2023,8,Jackson Chourio,OF,Milwaukee Brewers,MLB,22,R,R
+2023,9,Marcelo Mayer,INF,Boston Red Sox,MLB,23,L,R
+2023,10,Elly De La Cruz,SS/3B,Cincinnati Reds,MLB,24,S,R
+2023,11,Jordan Lawlar,INF,Arizona Diamondbacks,MLB,23,R,R
+2023,12,Jackson Holliday,2B/SS,Baltimore Orioles,AAA,22,L,R
+2023,13,Eury Pérez,RHP,Miami Marlins,MLB,23,R,R
+2023,14,Diego Cartaya,C,San Francisco Giants,A+,24,R,R
+2023,15,Druw Jones,OF,Arizona Diamondbacks,AA,22,R,R
+2023,16,Daniel Espino,RHP,Cleveland Guardians,AAA,25,R,R
+2023,17,James Wood,OF,Washington Nationals,MLB,23,L,R
+2023,18,Kyle Harrison,LHP,Milwaukee Brewers,MLB,24,R,L
+2023,19,Jackson Merrill,SS/OF,San Diego Padres,MLB,23,L,R
+2023,20,Taj Bradley,RHP,Minnesota Twins,AAA,25,R,R
+2023,21,Brett Baty,3B/OF,New York Mets,MLB,26,L,R
+2023,22,Marco Luciano,SS,New York Yankees,AAA,24,R,R
+2023,23,Triston Casas,1B,Boston Red Sox,MLB,26,L,R
+2023,24,Bobby Miller,RHP,Los Angeles Dodgers,MLB,27,L,R
+2023,25,Ezequiel Tovar,SS,Colorado Rockies,MLB,24,R,R
+2023,26,Termarr Johnson,2B,Pittsburgh Pirates,AAA,21,L,R
+2023,27,Zac Veen,OF,Colorado Rockies,AAA,24,L,R
+2023,28,Pete Crow-Armstrong,OF,Chicago Cubs,MLB,24,L,L
+2023,29,Noelvi Marte,3B/SS,Cincinnati Reds,AAA,24,R,R
+2023,30,Sal Frelick,OF,Milwaukee Brewers,MLB,26,L,R
+2023,31,Brooks Lee,INF,Minnesota Twins,MLB,25,S,R
+2023,32,Ricky Tiedemann,LHP,Toronto Blue Jays,AAA,23,L,L
+2023,33,Curtis Mead,3B/2B,Washington Nationals,MLB,25,R,R
+2023,34,Josh Jung,3B,Texas Rangers,MLB,28,R,R
+2023,35,Robert Hassell III,OF,Washington Nationals,AAA,24,L,L
+2023,36,Kevin Parada,C,New York Mets,AAA,24,R,R
+2023,37,Miguel Vargas,3B/OF/1B,Chicago White Sox,MLB,26,R,R
+2023,38,Colson Montgomery,SS/3B,Chicago White Sox,MLB,24,L,R
+2023,39,Tyler Soderstrom,C/1B,Athletics,MLB,24,L,R
+2023,40,Colton Cowser,OF,Baltimore Orioles,MLB,26,L,R
+2023,41,Evan Carter,OF,Texas Rangers,MLB,23,L,R
+2023,42,Gavin Williams,RHP,Cleveland Guardians,MLB,26,L,R
+2023,43,Hunter Brown,RHP,Houston Astros,MLB,27,R,R
+2023,44,Edwin Arroyo,SS,Cincinnati Reds,AAA,22,S,R
+2023,45,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2023,46,Elijah Green,OF,Washington Nationals,A+,22,R,R
+2023,47,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2023,48,Mick Abel,RHP,Minnesota Twins,MLB,24,R,R
+2023,49,Harry Ford,C,Washington Nationals,AAA,23,R,R
+2023,50,Masyn Winn,SS,St. Louis Cardinals,MLB,24,R,R
+2023,51,George Valera,OF,Cleveland Guardians,AAA,25,L,L
+2023,52,Oswald Peraza,SS/2B,Los Angeles Angels,MLB,25,R,R
+2023,53,Logan O'Hoppe,C,Los Angeles Angels,MLB,26,R,R
+2023,54,Michael Busch,INF,Chicago Cubs,MLB,28,L,R
+2023,55,Endy Rodríguez,C/1B,Pittsburgh Pirates,MLB,25,S,R
+2023,56,Gavin Stone,RHP,Los Angeles Dodgers,MLB,27,R,R
+2023,57,Henry Davis,C,Pittsburgh Pirates,MLB,26,R,R
+2023,58,Cade Cavalli,RHP,Washington Nationals,MLB,27,R,R
+2023,59,Brandon Pfaadt,RHP,Arizona Diamondbacks,MLB,27,R,R
+2023,60,Quinn Priester,RHP,Milwaukee Brewers,A+,25,R,R
+2023,61,Jacob Berry,OF/3B,Miami Marlins,AAA,25,S,R
+2023,62,Gavin Cross,OF,Kansas City Royals,AAA,25,L,L
+2023,63,Jackson Jobe,RHP,Detroit Tigers,MLB,23,R,R
+2023,64,Bo Naylor,C,Cleveland Guardians,ROK,26,L,R
+2023,65,Tanner Bibee,RHP,Cleveland Guardians,MLB,27,R,R
+2023,66,Owen White,RHP,Chicago White Sox,AAA,26,R,R
+2023,67,Max Meyer,RHP,Miami Marlins,MLB,27,L,R
+2023,68,Adael Amador,2B,Colorado Rockies,AAA,23,S,R
+2023,69,Cam Collier,1B/3B,Cincinnati Reds,AA,21,L,R
+2023,70,Ryan Pepiot,RHP,Tampa Bay Rays,MLB,28,R,R
+2023,71,Luisangel Acuña,SS/OF/2B,Chicago White Sox,MLB,24,R,R
+2023,72,Carson Williams,SS,Tampa Bay Rays,MLB,22,R,R
+2023,73,Kyle Manzardo,1B,Cleveland Guardians,MLB,25,L,R
+2023,74,Jordan Westburg,INF,Baltimore Orioles,MLB,27,R,R
+2023,75,Brayan Rocchio,SS/2B,Cleveland Guardians,MLB,25,S,R
+2023,76,Ken Waldichuk,LHP,Washington Nationals,MLB,28,L,L
+2023,77,Tink Hence,RHP,St. Louis Cardinals,ROK,23,R,R
+2023,78,Jack Leiter,RHP,Texas Rangers,MLB,26,R,R
+2023,79,Gordon Graceffo,RHP,St. Louis Cardinals,MLB,26,R,R
+2023,80,Heston Kjerstad,OF,Baltimore Orioles,AAA,27,L,R
+2023,81,Andy Pages,OF,Los Angeles Dodgers,MLB,25,R,R
+2023,82,Chase DeLauter,OF,Cleveland Guardians,MLB,24,L,L
+2023,83,Jace Jung,3B/2B,Detroit Tigers,AAA,25,L,R
+2023,84,Drew Romo,C,Chicago White Sox,MLB,24,S,R
+2023,85,Oscar Colás,OF,—,—,27,L,L
+2023,86,Ceddanne Rafaela,OF/SS,Boston Red Sox,MLB,25,R,R
+2023,87,Kevin Alcántara,OF,Chicago Cubs,AAA,23,R,R
+2023,88,Emmanuel Rodriguez,OF,Minnesota Twins,AAA,23,L,L
+2023,89,Zach Neto,SS,Los Angeles Angels,MLB,25,R,R
+2023,90,Joey Wiemer,OF,Washington Nationals,MLB,27,R,R
+2023,91,Alec Burleson,OF,St. Louis Cardinals,MLB,27,L,L
+2023,92,Brennen Davis,OF,Seattle Mariners,AAA,26,R,R
+2023,93,Miguel Bleis,OF,Boston Red Sox,AA,22,R,R
+2023,94,Brock Porter,RHP,Texas Rangers,A+,22,R,R
+2023,95,Wilmer Flores,RHP,Detroit Tigers,AAA,25,R,R
+2023,96,Alex Ramírez,OF,Chicago Cubs,AA,23,R,R
+2023,97,DL Hall,LHP,Milwaukee Brewers,MLB,27,L,L
+2023,98,Bryce Miller,RHP,Seattle Mariners,MLB,27,R,R
+2023,99,Joey Ortiz,INF,Milwaukee Brewers,MLB,27,R,R
+2023,100,Dylan Lesko,RHP,Tampa Bay Rays,A,22,R,R
+2022,1,Bobby Witt Jr.,SS/3B,Kansas City Royals,MLB,25,R,R
+2022,2,Adley Rutschman,C,Baltimore Orioles,MLB,28,S,R
+2022,3,Julio Rodríguez,OF,Seattle Mariners,MLB,25,R,R
+2022,4,Spencer Torkelson,1B/3B,Detroit Tigers,MLB,26,R,R
+2022,5,Riley Greene,OF,Detroit Tigers,MLB,25,L,L
+2022,6,Grayson Rodriguez,RHP,Los Angeles Angels,MLB,26,L,R
+2022,7,Gabriel Moreno,C,Arizona Diamondbacks,MLB,26,R,R
+2022,8,Anthony Volpe,SS,New York Yankees,MLB,25,R,R
+2022,9,CJ Abrams,SS,Washington Nationals,MLB,25,L,R
+2022,10,Francisco Alvarez,C,New York Mets,MLB,24,R,R
+2022,11,Noelvi Marte,3B/SS,Cincinnati Reds,AAA,24,R,R
+2022,12,Shane Baz,RHP,Baltimore Orioles,MLB,26,R,R
+2022,13,Marco Luciano,SS,New York Yankees,AAA,24,R,R
+2022,14,Marcelo Mayer,INF,Boston Red Sox,MLB,23,L,R
+2022,15,Brennen Davis,OF,Seattle Mariners,AAA,26,R,R
+2022,16,Triston Casas,1B,Boston Red Sox,MLB,26,L,R
+2022,17,Jack Leiter,RHP,Texas Rangers,MLB,26,R,R
+2022,18,Alek Thomas,OF,Los Angeles Dodgers,ROK,26,L,L
+2022,19,Corbin Carroll,OF,Arizona Diamondbacks,MLB,25,L,L
+2022,20,Nick Gonzales,2B/SS,Pittsburgh Pirates,MLB,26,R,R
+2022,21,Reid Detmers,LHP,Los Angeles Angels,MLB,26,L,L
+2022,22,Hunter Greene,RHP,Cincinnati Reds,MLB,26,R,R
+2022,23,Jordan Lawlar,INF,Arizona Diamondbacks,MLB,23,R,R
+2022,24,Henry Davis,C,Pittsburgh Pirates,MLB,26,R,R
+2022,25,Kahlil Watson,OF,Cleveland Guardians,AAA,23,L,R
+2022,26,Oneil Cruz,SS,Pittsburgh Pirates,MLB,27,L,R
+2022,27,Brett Baty,3B/OF,New York Mets,MLB,26,L,R
+2022,28,Diego Cartaya,C,San Francisco Giants,A+,24,R,R
+2022,29,Josh Jung,3B,Texas Rangers,MLB,28,R,R
+2022,30,Jordan Walker,OF/3B,St. Louis Cardinals,MLB,23,R,R
+2022,31,Joey Bart,C,Pittsburgh Pirates,MLB,29,R,R
+2022,32,George Kirby,RHP,Seattle Mariners,MLB,28,R,R
+2022,33,Nolan Gorman,2B/3B,St. Louis Cardinals,MLB,26,L,R
+2022,34,Edward Cabrera,RHP,Chicago Cubs,MLB,28,R,R
+2022,35,Max Meyer,RHP,Miami Marlins,MLB,27,L,R
+2022,36,Zac Veen,OF,Colorado Rockies,AAA,24,L,R
+2022,37,Robert Hassell III,OF,Washington Nationals,AAA,24,L,L
+2022,38,Orelvis Martinez,2B/3B,Washington Nationals,AAA,24,R,R
+2022,39,Cade Cavalli,RHP,Washington Nationals,MLB,27,R,R
+2022,40,Jackson Jobe,RHP,Detroit Tigers,MLB,23,R,R
+2022,41,Eury Pérez,RHP,Miami Marlins,MLB,23,R,R
+2022,42,Nick Lodolo,LHP,Cincinnati Reds,MLB,28,L,L
+2022,43,Matthew Liberatore,LHP,St. Louis Cardinals,MLB,26,L,L
+2022,44,Luis Campusano,C,San Diego Padres,MLB,27,R,R
+2022,45,Bryson Stott,SS,Philadelphia Phillies,MLB,28,L,R
+2022,46,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2022,47,George Valera,OF,Cleveland Guardians,AAA,25,L,L
+2022,48,Cole Winn,RHP,Texas Rangers,MLB,26,R,R
+2022,49,Brady House,3B,Washington Nationals,MLB,22,R,R
+2022,50,Josh Lowe,OF,Los Angeles Angels,MLB,28,L,R
+2022,51,MJ Melendez,C,New York Mets,MLB,27,L,R
+2022,52,Austin Martin,SS/OF/2B,Minnesota Twins,MLB,27,R,R
+2022,53,Daniel Espino,RHP,Cleveland Guardians,AAA,25,R,R
+2022,54,Quinn Priester,RHP,Milwaukee Brewers,A+,25,R,R
+2022,55,Nick Yorke,2B/OF,Pittsburgh Pirates,MLB,24,R,R
+2022,56,Tyler Soderstrom,C/1B,Athletics,MLB,24,L,R
+2022,57,Bobby Miller,RHP,Los Angeles Dodgers,MLB,27,L,R
+2022,58,Sixto Sánchez,RHP,Miami Marlins,AAA,27,R,R
+2022,59,Shea Langeliers,C,Athletics,MLB,28,R,R
+2022,60,Oswald Peraza,SS/2B,Los Angeles Angels,MLB,25,R,R
+2022,61,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2022,62,Nick Pratto,1B,Texas Rangers,AAA,27,L,L
+2022,63,Luis Matos,OF,Milwaukee Brewers,AAA,24,R,R
+2022,64,Gunnar Henderson,3B/SS,Baltimore Orioles,MLB,24,L,R
+2022,65,Michael Harris II,OF,Atlanta Braves,MLB,25,L,L
+2022,66,Colton Cowser,OF,Baltimore Orioles,MLB,26,L,R
+2022,67,Michael Busch,INF,Chicago Cubs,MLB,28,L,R
+2022,68,Andy Pages,OF,Los Angeles Dodgers,MLB,25,R,R
+2022,69,JJ Bleday,OF,Cincinnati Reds,MLB,28,L,L
+2022,70,Sal Frelick,OF,Milwaukee Brewers,MLB,26,L,R
+2022,71,Roansy Contreras,RHP,Colorado Rockies,MLB,26,R,R
+2022,72,Asa Lacy,LHP,Kansas City Royals,AA,26,L,L
+2022,73,Gabriel Arias,INF,Cleveland Guardians,MLB,26,R,R
+2022,74,Taj Bradley,RHP,Minnesota Twins,AAA,25,R,R
+2022,75,Kyle Harrison,LHP,Milwaukee Brewers,MLB,24,R,L
+2022,76,Elly De La Cruz,SS/3B,Cincinnati Reds,MLB,24,S,R
+2022,77,Vidal Bruján,OF/2B/SS,New York Mets,MLB,28,S,R
+2022,78,Ronny Mauricio,2B/SS/OF,New York Mets,MLB,25,S,R
+2022,79,Liover Peguero,SS,Philadelphia Phillies,AAA,25,R,R
+2022,80,Jordan Groshans,3B/SS,Atlanta Braves,AA,26,R,R
+2022,81,Mick Abel,RHP,Minnesota Twins,MLB,24,R,R
+2022,82,Emerson Hancock,RHP,Seattle Mariners,MLB,26,R,R
+2022,83,Ezequiel Duran,INF,Texas Rangers,MLB,26,R,R
+2022,84,Brayan Rocchio,SS/2B,Cleveland Guardians,MLB,25,S,R
+2022,85,Jarren Duran,OF,Boston Red Sox,MLB,29,L,R
+2022,86,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L
+2022,87,Matt McLain,SS/2B,Cincinnati Reds,MLB,26,R,R
+2022,88,Tyler Freeman,SS/2B,Colorado Rockies,MLB,26,R,R
+2022,89,Justin Foscue,2B/1B,Texas Rangers,MLB,27,R,R
+2022,90,DL Hall,LHP,Milwaukee Brewers,MLB,27,L,L
+2022,91,Greg Jones,OF/SS,Milwaukee Brewers,AAA,28,S,R
+2022,92,Cristian Hernández,SS/2B,Miami Marlins,AA,22,R,R
+2022,93,Harry Ford,C,Washington Nationals,AAA,23,R,R
+2022,94,Miguel Vargas,3B/OF/1B,Chicago White Sox,MLB,26,R,R
+2022,95,Jose Miranda,3B/2B/1B,San Diego Padres,AAA,27,R,R
+2022,96,Austin Wells,C,New York Yankees,MLB,26,L,R
+2022,97,Joe Ryan,RHP,Minnesota Twins,MLB,29,R,R
+2022,98,Matt Brash,RHP,Seattle Mariners,AAA,28,R,R
+2022,99,Blake Walston,LHP,Arizona Diamondbacks,MLB,24,L,L
+2022,100,Joey Wiemer,OF,Washington Nationals,MLB,27,R,R
+2021,1,Wander Franco,SS,Tampa Bay Rays,MLB,25,S,R
+2021,2,Adley Rutschman,C,Baltimore Orioles,MLB,28,S,R
+2021,3,Spencer Torkelson,1B/3B,Detroit Tigers,MLB,26,R,R
+2021,4,Jarred Kelenic,OF,Chicago White Sox,MLB,26,L,L
+2021,5,Julio Rodríguez,OF,Seattle Mariners,MLB,25,R,R
+2021,6,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L
+2021,7,Bobby Witt Jr.,SS/3B,Kansas City Royals,MLB,25,R,R
+2021,8,CJ Abrams,SS,Washington Nationals,MLB,25,L,R
+2021,9,Ke'Bryan Hayes,3B,Cincinnati Reds,MLB,29,R,R
+2021,10,Nate Pearson,RHP,Houston Astros,AAA,29,R,R
+2021,11,Casey Mize,RHP,Detroit Tigers,MLB,29,R,R
+2021,12,Cristian Pache,OF,New York Mets,AAA,27,R,R
+2021,13,Dylan Carlson,OF,Philadelphia Phillies,AAA,27,S,L
+2021,14,Andrew Vaughn,1B/OF,Milwaukee Brewers,MLB,28,R,R
+2021,15,Sixto Sánchez,RHP,Miami Marlins,AAA,27,R,R
+2021,16,Marco Luciano,SS,New York Yankees,AAA,24,R,R
+2021,17,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2021,18,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R
+2021,19,Luis Patiño,RHP,—,—,26,R,R
+2021,20,JJ Bleday,OF,Cincinnati Reds,MLB,28,L,L
+2021,21,Riley Greene,OF,Detroit Tigers,MLB,25,L,L
+2021,22,Austin Martin,SS/OF/2B,Minnesota Twins,MLB,27,R,R
+2021,23,Joey Bart,C,Pittsburgh Pirates,MLB,29,R,R
+2021,24,Tarik Skubal,LHP,Detroit Tigers,MLB,29,R,L
+2021,25,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R
+2021,26,Alex Kirilloff,OF/1B,Minnesota Twins,MLB,28,L,L
+2021,27,Grayson Rodriguez,RHP,Los Angeles Angels,MLB,26,L,R
+2021,28,Max Meyer,RHP,Miami Marlins,MLB,27,L,R
+2021,29,Daniel Lynch IV,LHP,Kansas City Royals,MLB,29,L,L
+2021,30,Asa Lacy,LHP,Kansas City Royals,AA,26,L,L
+2021,31,Emerson Hancock,RHP,Seattle Mariners,MLB,26,R,R
+2021,32,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2021,33,Logan Gilbert,RHP,Seattle Mariners,MLB,29,R,R
+2021,34,Randy Arozarena,OF,Seattle Mariners,MLB,31,R,R
+2021,35,Drew Waters,OF,Kansas City Royals,AAA,27,S,R
+2021,36,Nolan Jones,OF/3B,Cleveland Guardians,AAA,28,L,R
+2021,37,Matthew Liberatore,LHP,St. Louis Cardinals,MLB,26,L,L
+2021,38,Nolan Gorman,2B/3B,St. Louis Cardinals,MLB,26,L,R
+2021,39,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R
+2021,40,Nick Madrigal,2B,Los Angeles Angels,AAA,29,R,R
+2021,41,Forrest Whitley,RHP,Tampa Bay Rays,MLB,28,R,R
+2021,42,Spencer Howard,RHP,San Francisco Giants,AAA,29,R,R
+2021,43,Nick Gonzales,2B/SS,Pittsburgh Pirates,MLB,26,R,R
+2021,44,Triston Casas,1B,Boston Red Sox,MLB,26,L,R
+2021,45,Luis Campusano,C,San Diego Padres,MLB,27,R,R
+2021,46,Jordan Groshans,3B/SS,Atlanta Braves,AA,26,R,R
+2021,47,Corbin Carroll,OF,Arizona Diamondbacks,MLB,25,L,L
+2021,48,Francisco Alvarez,C,New York Mets,MLB,24,R,R
+2021,49,Jeter Downs,SS,New York Yankees,AAA,27,R,R
+2021,50,Vidal Bruján,OF/2B/SS,New York Mets,MLB,28,S,R
+2021,51,Quinn Priester,RHP,Milwaukee Brewers,A+,25,R,R
+2021,52,Brandon Marsh,OF,Philadelphia Phillies,MLB,28,L,R
+2021,53,Zac Veen,OF,Colorado Rockies,AAA,24,L,R
+2021,54,Kristian Robinson,OF,Arizona Diamondbacks,AAA,25,R,R
+2021,55,Garrett Crochet,LHP,Boston Red Sox,MLB,26,L,L
+2021,56,Keibert Ruiz,C,Washington Nationals,MLB,27,S,R
+2021,57,Josiah Gray,RHP,Washington Nationals,MLB,28,R,R
+2021,58,Nick Lodolo,LHP,Cincinnati Reds,MLB,28,L,L
+2021,59,Brailyn Marquez,LHP,Houston Astros,AAA,27,L,L
+2021,60,Brennen Davis,OF,Seattle Mariners,AAA,26,R,R
+2021,61,Robert Hassell III,OF,Washington Nationals,AAA,24,L,L
+2021,62,Josh Jung,3B,Texas Rangers,MLB,28,R,R
+2021,63,Oneil Cruz,SS,Pittsburgh Pirates,MLB,27,L,R
+2021,64,Garrett Mitchell,OF,Milwaukee Brewers,MLB,27,L,R
+2021,65,Jazz Chisholm Jr.,SS/2B,New York Yankees,MLB,28,L,R
+2021,66,Ronny Mauricio,2B/SS/OF,New York Mets,MLB,25,S,R
+2021,67,Edward Cabrera,RHP,Chicago Cubs,MLB,28,R,R
+2021,68,Heston Kjerstad,OF,Baltimore Orioles,AAA,27,L,R
+2021,69,DL Hall,LHP,Milwaukee Brewers,MLB,27,L,L
+2021,70,Hunter Greene,RHP,Cincinnati Reds,MLB,26,R,R
+2021,71,Brendan McKay,LHP,Tampa Bay Rays,AAA,30,L,L
+2021,72,Shea Langeliers,C,Athletics,MLB,28,R,R
+2021,73,Reid Detmers,LHP,Los Angeles Angels,MLB,26,L,L
+2021,74,Matt Allan,RHP,New York Mets,A+,25,R,R
+2021,75,Mick Abel,RHP,Minnesota Twins,MLB,24,R,R
+2021,76,Ryan Mountcastle,OF/1B,Baltimore Orioles,MLB,29,R,R
+2021,77,Sam Huff,C/1B,Baltimore Orioles,AAA,28,R,R
+2021,78,Geraldo Perdomo,SS,Arizona Diamondbacks,MLB,26,S,R
+2021,79,Trevor Larnach,OF,Minnesota Twins,MLB,29,L,R
+2021,80,Alek Thomas,OF,Los Angeles Dodgers,ROK,26,L,L
+2021,81,Heliot Ramos,OF,San Francisco Giants,MLB,26,R,R
+2021,82,Hunter Bishop,OF,San Francisco Giants,AAA,27,L,R
+2021,83,Shane McClanahan,LHP,Tampa Bay Rays,MLB,29,L,L
+2021,84,Xavier Edwards,2B/OF,Miami Marlins,MLB,26,S,R
+2021,85,Austin Hendrick,OF,Cincinnati Reds,AA,24,L,L
+2021,86,Simeon Woods Richardson,RHP,Minnesota Twins,MLB,25,R,R
+2021,87,Clarke Schmidt,RHP,New York Yankees,MLB,30,R,R
+2021,88,Miguel Amaya,C,Chicago Cubs,MLB,27,R,R
+2021,89,Shane Baz,RHP,Baltimore Orioles,MLB,26,R,R
+2021,90,Dane Dunning,RHP,Seattle Mariners,AAA,31,R,R
+2021,91,George Kirby,RHP,Seattle Mariners,MLB,28,R,R
+2021,92,Bobby Dalbec,3B/1B,Kansas City Royals,AAA,30,R,R
+2021,93,Brett Baty,3B/OF,New York Mets,MLB,26,L,R
+2021,94,Tyler Stephenson,C,Cincinnati Reds,MLB,29,R,R
+2021,95,Brice Turang,SS/2B/OF,Milwaukee Brewers,MLB,26,L,R
+2021,96,Jordan Balazovic,RHP,Detroit Tigers,AAA,27,R,R
+2021,97,Tyler Freeman,SS/2B,Colorado Rockies,MLB,26,R,R
+2021,98,Cade Cavalli,RHP,Washington Nationals,MLB,27,R,R
+2021,99,Taylor Trammell,OF,Houston Astros,MLB,28,L,L
+2020,1,Wander Franco,SS,Tampa Bay Rays,MLB,25,S,R
+2020,2,Gavin Lux,SS/2B,Tampa Bay Rays,MLB,28,L,R
+2020,3,Luis Robert Jr.,OF,New York Mets,MLB,28,R,R
+2020,4,Adley Rutschman,C,Baltimore Orioles,MLB,28,S,R
+2020,5,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L
+2020,6,Jo Adell,OF,Los Angeles Angels,MLB,27,R,R
+2020,7,Casey Mize,RHP,Detroit Tigers,MLB,29,R,R
+2020,8,Nate Pearson,RHP,Houston Astros,AAA,29,R,R
+2020,9,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2020,10,Bobby Witt Jr.,SS/3B,Kansas City Royals,MLB,25,R,R
+2020,11,Jarred Kelenic,OF,Chicago White Sox,MLB,26,L,L
+2020,12,Jesús Luzardo,LHP,Philadelphia Phillies,MLB,28,L,L
+2020,13,Cristian Pache,OF,New York Mets,AAA,27,R,R
+2020,14,Joey Bart,C,Pittsburgh Pirates,MLB,29,R,R
+2020,15,Brendan McKay,LHP,Tampa Bay Rays,AAA,30,L,L
+2020,16,Andrew Vaughn,1B/OF,Milwaukee Brewers,MLB,28,R,R
+2020,17,Dylan Carlson,OF,Philadelphia Phillies,AAA,27,S,L
+2020,18,Julio Rodríguez,OF,Seattle Mariners,MLB,25,R,R
+2020,19,Forrest Whitley,RHP,Tampa Bay Rays,MLB,28,R,R
+2020,20,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R
+2020,21,Carter Kieboom,SS/2B,Philadelphia Phillies,AAA,28,R,R
+2020,22,Sixto Sánchez,RHP,Miami Marlins,AAA,27,R,R
+2020,23,Dustin May,RHP,St. Louis Cardinals,MLB,28,R,R
+2020,24,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R
+2020,25,CJ Abrams,SS,Washington Nationals,MLB,25,L,R
+2020,26,Drew Waters,OF,Kansas City Royals,AAA,27,S,R
+2020,27,Luis Patiño,RHP,—,—,26,R,R
+2020,28,JJ Bleday,OF,Cincinnati Reds,MLB,28,L,L
+2020,29,Brendan Rodgers,2B/SS,Boston Red Sox,AAA,29,R,R
+2020,30,Alec Bohm,3B/1B,Philadelphia Phillies,MLB,29,R,R
+2020,31,Riley Greene,OF,Detroit Tigers,MLB,25,L,L
+2020,32,Alex Kirilloff,OF/1B,Minnesota Twins,MLB,28,L,L
+2020,33,Sean Murphy,C,Atlanta Braves,MLB,31,R,R
+2020,34,Spencer Howard,RHP,San Francisco Giants,AAA,29,R,R
+2020,35,Marco Luciano,SS,New York Yankees,AAA,24,R,R
+2020,36,Grayson Rodriguez,RHP,Los Angeles Angels,MLB,26,L,R
+2020,37,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R
+2020,38,Logan Gilbert,RHP,Seattle Mariners,MLB,29,R,R
+2020,39,Mitch Keller,RHP,Pittsburgh Pirates,MLB,30,R,R
+2020,40,Nick Madrigal,2B,Los Angeles Angels,AAA,29,R,R
+2020,41,Ke'Bryan Hayes,3B,Cincinnati Reds,MLB,29,R,R
+2020,42,Nolan Jones,OF/3B,Cleveland Guardians,AAA,28,L,R
+2020,43,Kristian Robinson,OF,Arizona Diamondbacks,AAA,25,R,R
+2020,44,Jeter Downs,SS,New York Yankees,AAA,27,R,R
+2020,45,Vidal Bruján,OF/2B/SS,New York Mets,MLB,28,S,R
+2020,46,Tarik Skubal,LHP,Detroit Tigers,MLB,29,R,L
+2020,47,Nolan Gorman,2B/3B,St. Louis Cardinals,MLB,26,L,R
+2020,48,Nick Lodolo,LHP,Cincinnati Reds,MLB,28,L,L
+2020,49,Alek Thomas,OF,Los Angeles Dodgers,ROK,26,L,L
+2020,50,Luis Campusano,C,San Diego Padres,MLB,27,R,R
+2020,51,Nico Hoerner,SS/2B/OF,Chicago Cubs,MLB,29,R,R
+2020,52,Kyle Wright,RHP,Chicago Cubs,AAA,30,R,R
+2020,53,Hunter Greene,RHP,Cincinnati Reds,MLB,26,R,R
+2020,54,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R
+2020,55,Josh Jung,3B,Texas Rangers,MLB,28,R,R
+2020,56,Evan White,1B,Los Angeles Angels,AA,30,R,L
+2020,57,Taylor Trammell,OF,Houston Astros,MLB,28,L,L
+2020,58,Matthew Liberatore,LHP,St. Louis Cardinals,MLB,26,L,L
+2020,59,Brady Singer,RHP,Cincinnati Reds,MLB,29,R,R
+2020,60,A.J. Puk,LHP,Arizona Diamondbacks,MLB,31,L,L
+2020,61,Daniel Lynch IV,LHP,Kansas City Royals,MLB,29,L,L
+2020,62,Ronny Mauricio,2B/SS/OF,New York Mets,MLB,25,S,R
+2020,63,Francisco Alvarez,C,New York Mets,MLB,24,R,R
+2020,64,Oneil Cruz,SS,Pittsburgh Pirates,MLB,27,L,R
+2020,65,Heliot Ramos,OF,San Francisco Giants,MLB,26,R,R
+2020,66,Jazz Chisholm Jr.,SS/2B,New York Yankees,MLB,28,L,R
+2020,67,Josiah Gray,RHP,Washington Nationals,MLB,28,R,R
+2020,68,Brailyn Marquez,LHP,Houston Astros,AAA,27,L,L
+2020,69,DL Hall,LHP,Milwaukee Brewers,MLB,27,L,L
+2020,70,Shea Langeliers,C,Athletics,MLB,28,R,R
+2020,71,Hunter Bishop,OF,San Francisco Giants,AAA,27,L,R
+2020,72,Xavier Edwards,2B/OF,Miami Marlins,MLB,26,S,R
+2020,73,Keibert Ruiz,C,Washington Nationals,MLB,27,S,R
+2020,74,Sam Huff,C/1B,Baltimore Orioles,AAA,28,R,R
+2020,75,Jordan Groshans,3B/SS,Atlanta Braves,AA,26,R,R
+2020,76,Daulton Varsho,C,Toronto Blue Jays,MLB,29,L,R
+2020,77,Triston Casas,1B,Boston Red Sox,MLB,26,L,R
+2020,78,Brennen Davis,OF,Seattle Mariners,AAA,26,R,R
+2020,79,Brandon Marsh,OF,Philadelphia Phillies,MLB,28,L,R
+2020,80,Jesús Sánchez,OF,Toronto Blue Jays,MLB,28,L,R
+2020,81,Trevor Larnach,OF,Minnesota Twins,MLB,29,L,R
+2020,82,Geraldo Perdomo,SS,Arizona Diamondbacks,MLB,26,S,R
+2020,83,Brusdar Graterol,RHP,Los Angeles Dodgers,MLB,27,R,R
+2020,84,Edward Cabrera,RHP,Chicago Cubs,MLB,28,R,R
+2020,85,Jordan Balazovic,RHP,Detroit Tigers,AAA,27,R,R
+2020,86,Bryson Stott,SS,Philadelphia Phillies,MLB,28,L,R
+2020,87,Clarke Schmidt,RHP,New York Yankees,MLB,30,R,R
+2020,88,Corbin Carroll,OF,Arizona Diamondbacks,MLB,25,L,L
+2020,89,Shane Baz,RHP,Baltimore Orioles,MLB,26,R,R
+2020,90,Brent Honeywell,RHP,San Francisco Giants,AA,31,R,R
+2020,91,Deivi García,RHP,Milwaukee Brewers,AAA,26,R,R
+2020,92,Brett Baty,3B/OF,New York Mets,MLB,26,L,R
+2020,93,Ryan Mountcastle,OF/1B,Baltimore Orioles,MLB,29,R,R
+2020,94,Miguel Amaya,C,Chicago Cubs,MLB,27,R,R
+2020,95,Tyler Freeman,SS/2B,Colorado Rockies,MLB,26,R,R
+2020,96,Luis Garcia,SS,—,—,25,S,R
+2020,97,Simeon Woods Richardson,RHP,Minnesota Twins,MLB,25,R,R
+2020,98,Seth Corry,LHP,San Francisco Giants,AA,27,L,L
+2020,99,George Kirby,RHP,Seattle Mariners,MLB,28,R,R
+2019,1,Vladimir Guerrero Jr.,3B,Toronto Blue Jays,MLB,27,R,R
+2019,2,Fernando Tatis Jr.,SS,San Diego Padres,MLB,27,R,R
+2019,3,Eloy Jiménez,OF,Toronto Blue Jays,AAA,29,R,R
+2019,4,Victor Robles,OF,Seattle Mariners,AAA,28,R,R
+2019,5,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2019,6,Nick Senzel,3B/2B/OF,Los Angeles Dodgers,AAA,30,R,R
+2019,7,Forrest Whitley,RHP,Tampa Bay Rays,MLB,28,R,R
+2019,8,Kyle Tucker,OF,Los Angeles Dodgers,MLB,29,L,R
+2019,9,Alex Kirilloff,OF/1B,Minnesota Twins,MLB,28,L,L
+2019,10,Brendan Rodgers,2B/SS,Boston Red Sox,AAA,29,R,R
+2019,11,Bo Bichette,SS,New York Mets,MLB,28,R,R
+2019,12,Jesús Luzardo,LHP,Philadelphia Phillies,MLB,28,L,L
+2019,13,Wander Franco,SS,Tampa Bay Rays,MLB,25,S,R
+2019,14,Jo Adell,OF,Los Angeles Angels,MLB,27,R,R
+2019,15,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L
+2019,16,Taylor Trammell,OF,Houston Astros,MLB,28,L,L
+2019,17,Casey Mize,RHP,Detroit Tigers,MLB,29,R,R
+2019,18,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R
+2019,19,Mitch Keller,RHP,Pittsburgh Pirates,MLB,30,R,R
+2019,20,Keston Hiura,1B,Los Angeles Dodgers,AAA,29,R,R
+2019,21,Dylan Cease,RHP,Toronto Blue Jays,MLB,30,R,R
+2019,22,Joey Bart,C,Pittsburgh Pirates,MLB,29,R,R
+2019,23,Luis Urías,INF,Arizona Diamondbacks,AAA,28,R,R
+2019,24,Michael Soroka,RHP,Arizona Diamondbacks,MLB,28,R,R
+2019,25,Carter Kieboom,SS/2B,Philadelphia Phillies,AAA,28,R,R
+2019,26,Francisco Mejía,C/OF,—,—,30,S,R
+2019,27,Sixto Sánchez,RHP,Miami Marlins,AAA,27,R,R
+2019,28,Brent Honeywell,RHP,San Francisco Giants,AA,31,R,R
+2019,29,Brendan McKay,LHP,Tampa Bay Rays,AAA,30,L,L
+2019,30,Kyle Wright,RHP,Chicago Cubs,AAA,30,R,R
+2019,31,Hunter Greene,RHP,Cincinnati Reds,MLB,26,R,R
+2019,32,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R
+2019,33,Alex Reyes,RHP,Los Angeles Dodgers,MLB,31,R,R
+2019,34,Chris Paddack,RHP,Cincinnati Reds,MLB,30,R,R
+2019,35,Alex Verdugo,OF,San Diego Padres,ROK,30,L,L
+2019,36,Keibert Ruiz,C,Washington Nationals,MLB,27,S,R
+2019,37,Cristian Pache,OF,New York Mets,AAA,27,R,R
+2019,38,Austin Riley,3B,Atlanta Braves,MLB,29,R,R
+2019,39,Jesús Sánchez,OF,Toronto Blue Jays,MLB,28,L,R
+2019,40,Luis Robert Jr.,OF,New York Mets,MLB,28,R,R
+2019,41,Triston McKenzie,RHP,San Diego Padres,AAA,28,R,R
+2019,42,A.J. Puk,LHP,Arizona Diamondbacks,MLB,31,L,L
+2019,43,Justus Sheffield,LHP,—,—,30,L,L
+2019,44,Yordan Alvarez,OF,Houston Astros,MLB,28,L,R
+2019,45,Sean Murphy,C,Atlanta Braves,MLB,31,R,R
+2019,46,Ke'Bryan Hayes,3B,Cincinnati Reds,MLB,29,R,R
+2019,47,Nick Madrigal,2B,Los Angeles Angels,AAA,29,R,R
+2019,48,Luis Patiño,RHP,—,—,26,R,R
+2019,49,Adrian Morejon,LHP,San Diego Padres,MLB,27,L,L
+2019,50,Touki Toussaint,RHP,—,—,29,R,R
+2019,51,Pete Alonso,1B,Baltimore Orioles,MLB,31,R,R
+2019,52,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R
+2019,53,Jonathan India,2B/3B,Kansas City Royals,MLB,29,R,R
+2019,54,Brady Singer,RHP,Cincinnati Reds,MLB,29,R,R
+2019,55,Matthew Liberatore,LHP,St. Louis Cardinals,MLB,26,L,L
+2019,56,Jarred Kelenic,OF,Chicago White Sox,MLB,26,L,L
+2019,57,Estevan Florial,OF,—,—,28,L,R
+2019,58,Andrés Giménez,SS,Toronto Blue Jays,MLB,27,L,R
+2019,59,Alec Bohm,3B/1B,Philadelphia Phillies,MLB,29,R,R
+2019,60,Jazz Chisholm Jr.,SS/2B,New York Yankees,MLB,28,L,R
+2019,61,Nolan Gorman,2B/3B,St. Louis Cardinals,MLB,26,L,R
+2019,62,Josh James,RHP,—,—,33,R,R
+2019,63,Griffin Canning,RHP,San Diego Padres,MLB,30,R,R
+2019,64,Yusniel Díaz,OF,—,—,29,R,R
+2019,65,Danny Jansen,C,Texas Rangers,MLB,31,R,R
+2019,66,Jonathan Loáisiga,RHP,Arizona Diamondbacks,MLB,31,R,R
+2019,67,Nolan Jones,OF/3B,Cleveland Guardians,AAA,28,L,R
+2019,68,Brusdar Graterol,RHP,Los Angeles Dodgers,MLB,27,R,R
+2019,69,Dustin May,RHP,St. Louis Cardinals,MLB,28,R,R
+2019,70,Gavin Lux,SS/2B,Tampa Bay Rays,MLB,28,L,R
+2019,71,Ryan Mountcastle,OF/1B,Baltimore Orioles,MLB,29,R,R
+2019,72,Michel Baez,RHP,—,—,30,R,R
+2019,73,Jon Duplantier,RHP,Milwaukee Brewers,MLB,31,L,R
+2019,74,Logan Allen,LHP,Los Angeles Dodgers,AAA,28,R,L
+2019,75,Luis García Jr.,SS/2B,Washington Nationals,MLB,26,L,R
+2019,76,Nate Pearson,RHP,Houston Astros,AAA,29,R,R
+2019,77,Adonis Medina,RHP,—,—,29,R,R
+2019,78,Franklin Pérez,RHP,Detroit Tigers,A,28,R,R
+2019,79,Michael Chavis,3B/1B,Cincinnati Reds,AAA,30,R,R
+2019,80,Dane Dunning,RHP,Seattle Mariners,AAA,31,R,R
+2019,81,Corbin Martin,RHP,Chicago Cubs,AAA,30,R,R
+2019,82,Bryse Wilson,RHP,Philadelphia Phillies,AAA,28,R,R
+2019,83,Taylor Widener,RHP,Atlanta Braves,AAA,31,L,R
+2019,84,Ronaldo Hernández,C,—,—,28,R,R
+2019,85,Hans Crouse,RHP,Baltimore Orioles,AAA,27,L,R
+2019,86,Drew Waters,OF,Kansas City Royals,AAA,27,S,R
+2019,87,Travis Swaggerty,OF,New York Mets,AAA,28,L,L
+2019,88,J.P. Martínez,OF,—,—,30,L,L
+2019,89,Cole Winn,RHP,Texas Rangers,MLB,26,R,R
+2019,90,DL Hall,LHP,Milwaukee Brewers,MLB,27,L,L
+2019,91,Justin Dunn,RHP,Los Angeles Angels,AAA,30,R,R
+2019,92,Heliot Ramos,OF,San Francisco Giants,MLB,26,R,R
+2019,93,Ryan Weathers,LHP,New York Yankees,MLB,26,R,L
+2019,94,Miguel Amaya,C,Chicago Cubs,MLB,27,R,R
+2019,95,Colton Welker,3B/1B,—,—,28,R,R
+2019,96,Oneil Cruz,SS,Pittsburgh Pirates,MLB,27,L,R
+2019,97,J.B. Bukauskas,RHP,Milwaukee Brewers,AAA,29,R,R
+2019,98,Eric Pardinho,RHP,—,—,25,R,R
+2019,99,Victor Mesa,OF,Miami Marlins,AAA,29,R,R
+2019,100,Nico Hoerner,SS/2B/OF,Chicago Cubs,MLB,29,R,R
+2018,1,Shohei Ohtani,TWP,Los Angeles Dodgers,MLB,31,L,R
+2018,2,Ronald Acuña Jr.,OF,Atlanta Braves,MLB,28,R,R
+2018,3,Vladimir Guerrero Jr.,3B,Toronto Blue Jays,MLB,27,R,R
+2018,4,Eloy Jiménez,OF,Toronto Blue Jays,AAA,29,R,R
+2018,5,Gleyber Torres,INF,Detroit Tigers,MLB,29,R,R
+2018,6,Victor Robles,OF,Seattle Mariners,AAA,28,R,R
+2018,7,Nick Senzel,3B/2B/OF,Los Angeles Dodgers,AAA,30,R,R
+2018,8,Fernando Tatis Jr.,SS,San Diego Padres,MLB,27,R,R
+2018,9,Forrest Whitley,RHP,Tampa Bay Rays,MLB,28,R,R
+2018,10,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R
+2018,11,Francisco Mejía,C/OF,—,—,30,S,R
+2018,12,Brent Honeywell,RHP,San Francisco Giants,AA,31,R,R
+2018,13,Walker Buehler,RHP,San Diego Padres,MLB,31,R,R
+2018,14,Bo Bichette,SS,New York Mets,MLB,28,R,R
+2018,15,Brendan Rodgers,2B/SS,Boston Red Sox,AAA,29,R,R
+2018,16,Mitch Keller,RHP,Pittsburgh Pirates,MLB,30,R,R
+2018,17,Kyle Tucker,OF,Los Angeles Dodgers,MLB,29,L,R
+2018,18,Alex Reyes,RHP,Los Angeles Dodgers,MLB,31,R,R
+2018,19,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L
+2018,20,Royce Lewis,SS,Minnesota Twins,MLB,26,R,R
+2018,21,Hunter Greene,RHP,Cincinnati Reds,MLB,26,R,R
+2018,22,Willy Adames,SS/2B,San Francisco Giants,MLB,30,R,R
+2018,23,Austin Hays,OF,Chicago White Sox,MLB,30,R,R
+2018,24,Triston McKenzie,RHP,San Diego Padres,AAA,28,R,R
+2018,25,Brendan McKay,LHP,Tampa Bay Rays,AAA,30,L,L
+2018,26,Sixto Sánchez,RHP,Miami Marlins,AAA,27,R,R
+2018,27,Lewis Brinson,OF,—,—,32,R,R
+2018,28,Luis Robert Jr.,OF,New York Mets,MLB,28,R,R
+2018,29,Juan Soto,OF,New York Mets,MLB,27,L,L
+2018,30,Kyle Wright,RHP,Chicago Cubs,AAA,30,R,R
+2018,31,Michael Soroka,RHP,Arizona Diamondbacks,MLB,28,R,R
+2018,32,A.J. Puk,LHP,Arizona Diamondbacks,MLB,31,L,L
+2018,33,Alex Verdugo,OF,San Diego Padres,ROK,30,L,L
+2018,34,Leody Taveras,OF,Baltimore Orioles,MLB,27,S,R
+2018,35,Scott Kingery,INF/OF,Chicago Cubs,AAA,32,R,R
+2018,36,Luis Urías,INF,Arizona Diamondbacks,AAA,28,R,R
+2018,37,J.P. Crawford,SS,Seattle Mariners,MLB,31,L,R
+2018,38,Jack Flaherty,RHP,Detroit Tigers,MLB,30,R,R
+2018,39,Franklin Pérez,RHP,Detroit Tigers,A,28,R,R
+2018,40,Cal Quantrill,RHP,Texas Rangers,MLB,31,L,R
+2018,41,Ryan McMahon,1B/2B/3B,New York Yankees,MLB,31,L,R
+2018,42,Michel Baez,RHP,—,—,30,R,R
+2018,43,Taylor Trammell,OF,Houston Astros,MLB,28,L,L
+2018,44,Estevan Florial,OF,—,—,28,L,R
+2018,45,Austin Meadows,OF,Detroit Tigers,MLB,31,L,L
+2018,46,Carson Kelly,C,Chicago Cubs,MLB,31,R,R
+2018,47,Anthony Alford,OF,—,—,31,R,R
+2018,48,Justus Sheffield,LHP,—,—,30,L,L
+2018,49,Luiz Gohara,LHP,Los Angeles Angels,AAA,29,L,L
+2018,50,Adrian Morejon,LHP,San Diego Padres,MLB,27,L,L
+2018,51,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R
+2018,52,Keibert Ruiz,C,Washington Nationals,MLB,27,S,R
+2018,53,Willie Calhoun,2B/OF,—,—,31,L,R
+2018,54,Alec Hansen,RHP,Chicago White Sox,AA,31,R,R
+2018,55,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R
+2018,56,Keston Hiura,1B,Los Angeles Dodgers,AAA,29,R,R
+2018,57,Jesús Sánchez,OF,Toronto Blue Jays,MLB,28,L,R
+2018,58,Kolby Allard,LHP,Cleveland Guardians,AAA,28,L,L
+2018,59,Alex Faedo,RHP,Tampa Bay Rays,MLB,30,R,R
+2018,60,Jesús Luzardo,LHP,Philadelphia Phillies,MLB,28,L,L
+2018,61,Dylan Cease,RHP,Toronto Blue Jays,MLB,30,R,R
+2018,62,Jo Adell,OF,Los Angeles Angels,MLB,27,R,R
+2018,63,Heliot Ramos,OF,San Francisco Giants,MLB,26,R,R
+2018,64,Jake Bauers,1B/OF,Milwaukee Brewers,MLB,30,L,L
+2018,65,Miguel Andujar,3B,San Diego Padres,MLB,31,R,R
+2018,66,Franklin Barreto,2B/SS,—,—,30,R,R
+2018,67,Shane Baz,RHP,Baltimore Orioles,MLB,26,R,R
+2018,68,Fernando Romero,RHP,Los Angeles Angels,AAA,31,R,R
+2018,69,Corbin Burnes,RHP,Arizona Diamondbacks,MLB,31,R,R
+2018,70,Kyle Lewis,OF,Arizona Diamondbacks,MLB,30,R,R
+2018,71,Monte Harrison,OF,Milwaukee Brewers,AAA,30,R,R
+2018,72,Jorge Mateo,SS/2B,Atlanta Braves,MLB,30,R,R
+2018,73,Jon Duplantier,RHP,Milwaukee Brewers,MLB,31,L,R
+2018,74,Albert Abreu,RHP,—,—,30,R,R
+2018,75,Chance Adams,RHP,Colorado Rockies,AAA,31,R,R
+2018,76,J.B. Bukauskas,RHP,Milwaukee Brewers,AAA,29,R,R
+2018,77,Beau Burrows,RHP,Pittsburgh Pirates,AAA,29,R,R
+2018,78,Stephen Gonsalves,LHP,—,—,31,L,L
+2018,79,Michael Chavis,3B/1B,Cincinnati Reds,AAA,30,R,R
+2018,80,Nick Gordon,SS/2B,Kansas City Royals,AAA,30,L,R
+2018,81,Christian Arroyo,3B/SS,New York Mets,AAA,30,R,R
+2018,82,Jesse Winker,OF,New York Mets,MLB,32,L,L
+2018,83,Max Fried,LHP,New York Yankees,MLB,32,L,L
+2018,84,Tyler Mahle,RHP,San Francisco Giants,MLB,31,R,R
+2018,85,Jay Groome,LHP,—,—,27,L,L
+2018,86,Adonis Medina,RHP,—,—,29,R,R
+2018,87,Kevin Maitan,3B/SS/2B,Minnesota Twins,A+,26,R,R
+2018,88,Mickey Moniak,OF,Colorado Rockies,MLB,28,L,R
+2018,89,Anderson Espinoza,RHP,—,—,28,R,R
+2018,90,Carter Kieboom,SS/2B,Philadelphia Phillies,AAA,28,R,R
+2018,91,Pavin Smith,1B/OF,Arizona Diamondbacks,MLB,30,L,L
+2018,92,Dane Dunning,RHP,Seattle Mariners,AAA,31,R,R
+2018,93,Jahmai Jones,2B/OF,Detroit Tigers,MLB,28,R,R
+2018,94,Tyler O'Neill,OF,Baltimore Orioles,MLB,30,R,R
+2018,95,Adam Haseley,CF,Chicago White Sox,MLB,30,L,L
+2018,96,Brandon Woodruff,RHP,Milwaukee Brewers,MLB,33,L,R
+2018,97,Austin Riley,3B,Atlanta Braves,MLB,29,R,R
+2018,98,Ryan Mountcastle,OF/1B,Baltimore Orioles,MLB,29,R,R
+2018,99,Blake Rutherford,OF,—,—,29,L,R
+2018,100,Riley Pint,RHP,San Diego Padres,AAA,28,R,R
+2017,1,Andrew Benintendi,OF,Chicago White Sox,MLB,31,L,L
+2017,2,Yoán Moncada,2B,Los Angeles Angels,MLB,30,S,R
+2017,3,Gleyber Torres,INF,Detroit Tigers,MLB,29,R,R
+2017,4,Dansby Swanson,SS,Chicago Cubs,MLB,32,R,R
+2017,5,Amed Rosario,SS,New York Yankees,MLB,30,R,R
+2017,6,Alex Reyes,RHP,Los Angeles Dodgers,MLB,31,R,R
+2017,7,J.P. Crawford,SS,Seattle Mariners,MLB,31,L,R
+2017,8,Victor Robles,OF,Seattle Mariners,AAA,28,R,R
+2017,9,Tyler Glasnow,RHP,Los Angeles Dodgers,MLB,32,L,R
+2017,10,Austin Meadows,OF,Detroit Tigers,MLB,31,L,L
+2017,11,Ozzie Albies,2B/SS,Atlanta Braves,MLB,29,S,R
+2017,12,Lucas Giolito,RHP,San Diego Padres,MLB,31,R,R
+2017,13,Cody Bellinger,1B/OF,New York Yankees,MLB,30,L,L
+2017,14,Eloy Jiménez,OF,Toronto Blue Jays,AAA,29,R,R
+2017,15,Brendan Rodgers,2B/SS,Boston Red Sox,AAA,29,R,R
+2017,16,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R
+2017,17,Rafael Devers,3B,San Francisco Giants,MLB,29,L,R
+2017,18,Lewis Brinson,OF,—,—,32,R,R
+2017,19,Mickey Moniak,OF,Colorado Rockies,MLB,28,L,R
+2017,20,Francis Martes,RHP,—,—,30,R,R
+2017,21,Willy Adames,SS/2B,San Francisco Giants,MLB,30,R,R
+2017,22,Bradley Zimmer,OF,Colorado Rockies,MLB,33,L,R
+2017,23,Manuel Margot,OF,Detroit Tigers,AAA,31,R,R
+2017,24,Clint Frazier,OF,Chicago White Sox,AAA,31,R,R
+2017,25,Anderson Espinoza,RHP,—,—,28,R,R
+2017,26,Nick Senzel,3B/2B/OF,Los Angeles Dodgers,AAA,30,R,R
+2017,27,Josh Bell,1B/OF,Minnesota Twins,MLB,33,S,R
+2017,28,Ian Happ,2B/OF,Chicago Cubs,MLB,31,S,R
+2017,29,Kyle Lewis,OF,Arizona Diamondbacks,MLB,30,R,R
+2017,30,Corey Ray,OF,Milwaukee Brewers,AA,31,L,L
+2017,31,Brent Honeywell,RHP,San Francisco Giants,AA,31,R,R
+2017,32,Kevin Maitan,3B/SS/2B,Minnesota Twins,A+,26,R,R
+2017,33,José De León,RHP,—,—,33,R,R
+2017,34,Vladimir Guerrero Jr.,3B,Toronto Blue Jays,MLB,27,R,R
+2017,35,Kyle Tucker,OF,Los Angeles Dodgers,MLB,29,L,R
+2017,36,Tyler O'Neill,OF,Baltimore Orioles,MLB,30,R,R
+2017,37,Blake Rutherford,OF,—,—,29,L,R
+2017,38,Josh Hader,LHP,Houston Astros,AA,32,L,L
+2017,39,Carson Kelly,C,Chicago Cubs,MLB,31,R,R
+2017,40,Francisco Mejía,C/OF,—,—,30,S,R
+2017,41,Jay Groome,LHP,—,—,27,L,L
+2017,42,Hunter Renfroe,OF,Kansas City Royals,MLB,34,R,R
+2017,43,Braxton Garrett,LHP,Miami Marlins,MLB,28,R,L
+2017,44,Jeff Hoffman,RHP,Toronto Blue Jays,MLB,33,R,R
+2017,45,Reynaldo López,RHP,Atlanta Braves,MLB,32,R,R
+2017,46,Aaron Judge,OF,New York Yankees,MLB,34,R,R
+2017,47,Jorge Mateo,SS/2B,Atlanta Braves,MLB,30,R,R
+2017,48,Mitch Keller,RHP,Pittsburgh Pirates,MLB,30,R,R
+2017,49,Yadier Álvarez,RHP,Los Angeles Dodgers,AAA,30,R,R
+2017,50,Nick Gordon,SS/2B,Kansas City Royals,AAA,30,L,R
+2017,51,Riley Pint,RHP,San Diego Padres,AAA,28,R,R
+2017,52,Franklin Barreto,2B/SS,—,—,30,R,R
+2017,53,Kolby Allard,LHP,Cleveland Guardians,AAA,28,L,L
+2017,54,David Paulino,RHP,Philadelphia Phillies,AAA,32,R,R
+2017,55,Leody Taveras,OF,Baltimore Orioles,MLB,27,S,R
+2017,56,Yohander Méndez,LHP,—,—,31,L,L
+2017,57,Triston McKenzie,RHP,San Diego Padres,AAA,28,R,R
+2017,58,James Kaprielian,RHP,—,—,32,R,R
+2017,59,Kevin Newman,2B/SS,Kansas City Royals,AAA,32,R,R
+2017,60,Erick Fedde,RHP,Chicago White Sox,MLB,33,R,R
+2017,61,Alex Verdugo,OF,San Diego Padres,ROK,30,L,L
+2017,62,Luis Ortiz,RHP,New York Mets,AAA,30,R,R
+2017,63,Dominic Smith,1B,Atlanta Braves,MLB,30,L,L
+2017,64,Sean Reid-Foley,RHP,—,—,30,R,R
+2017,65,Isan Díaz,2B,—,—,29,L,R
+2017,66,Amir Garrett,LHP,—,—,34,R,L
+2017,67,Jesse Winker,OF,New York Mets,MLB,32,L,L
+2017,68,Luke Weaver,RHP,New York Mets,MLB,32,R,R
+2017,69,A.J. Puk,LHP,Arizona Diamondbacks,MLB,31,L,L
+2017,70,Anthony Alford,OF,—,—,31,R,R
+2017,71,Carson Fulmer,RHP,Pittsburgh Pirates,AAA,32,R,R
+2017,72,Jorge Alfaro,C,Kansas City Royals,AA,32,R,R
+2017,73,Germán Márquez,RHP,San Diego Padres,MLB,31,R,R
+2017,74,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R
+2017,75,Jake Bauers,1B/OF,Milwaukee Brewers,MLB,30,L,L
+2017,76,Albert Almora Jr.,OF,Arizona Diamondbacks,AAA,32,R,R
+2017,77,Dylan Cease,RHP,Toronto Blue Jays,MLB,30,R,R
+2017,78,Michael Soroka,RHP,Arizona Diamondbacks,MLB,28,R,R
+2017,79,Justus Sheffield,LHP,—,—,30,L,L
+2017,80,Sean Newcomb,LHP,Chicago White Sox,MLB,32,L,L
+2017,81,Zack Collins,C/1B,—,—,31,L,R
+2017,82,Willie Calhoun,2B/OF,—,—,31,L,R
+2017,83,Derek Fisher,OF,Minnesota Twins,AAA,32,L,R
+2017,84,Forrest Whitley,RHP,Tampa Bay Rays,MLB,28,R,R
+2017,85,Grant Holmes,RHP,Atlanta Braves,MLB,30,L,R
+2017,86,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R
+2017,87,Robert Stephenson,RHP,Los Angeles Angels,MLB,33,R,R
+2017,88,Tyler Beede,RHP,Chicago Cubs,AAA,32,R,R
+2017,89,Christian Arroyo,3B/SS,New York Mets,AAA,30,R,R
+2017,90,Raimel Tapia,OF,—,—,32,L,L
+2017,91,Delvin Pérez,SS,—,—,27,R,R
+2017,92,Stephen Gonsalves,LHP,—,—,31,L,L
+2017,93,Walker Buehler,RHP,San Diego Padres,MLB,31,R,R
+2017,94,Richard Urena,SS/2B,—,—,30,S,R
+2017,95,Jeimer Candelario,3B/1B,Los Angeles Angels,AAA,32,S,R
+2017,96,Bobby Bradley,1B,—,—,29,L,R
+2017,97,Cal Quantrill,RHP,Texas Rangers,MLB,31,L,R
+2017,98,Alex Kirilloff,OF/1B,Minnesota Twins,MLB,28,L,L
+2017,99,Chance Sisco,C,St. Louis Cardinals,MLB,31,L,R
+2017,100,Matt Chapman,3B,San Francisco Giants,MLB,33,R,R
